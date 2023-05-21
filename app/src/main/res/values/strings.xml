@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MoiCaroline</string>
+    <string name="title_activity_prueba">prueba</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descripcionAntonieta">
+        Le Fleur d’Antto\n
+        Presentando la colección de lencería y traje de baño
+        \n
+        \n
+        14/04/2023
+        \n
+        Como el capullo nace la flor…
+        \n
+        Surge Le fleur d’Antto, nombre de la colección de traje de baño para dama que le gusta vestir fina y delicada, y retomado del francés que significa: La flor de Antonieta. Maria Antonietta de Austria, que fue reina de Francia en el siglo XVIII, cuando se casó con el Delfin Luis XVI.
+        \n
+        Al hablar de este tema se despierta la emoción de la imaginación y la creatividad pues nos transportamos a otro universo, otra dimensión, donde el espectáculo del teatro y las artes se convierte en el pan de cada día, las fiestas, las golosinas y la diversión; junto con la exagerada ornamentación que lo caracteriza.
+        \n
+        Inspirada en las imágenes de la película de Sofia Coppola, donde se sueña con maravillosos  paisajes con fuentes y lagos, jardines que ornamentan palacios y cabañas con un sin fin de flores, las cuales se desarrollan en esta pequeña historia.
+    </string>
+    <string name="descripcionBatalla">
+        Batalla de las flores\n
+        Presentando la colección primavera - verano
+        \n
+        \n
+        04/05/2023
+        \n
+        Dentro del más bello poema, la belleza de una flor siempre se encuentra reflejada dentro de las maravillas de una mujer. Batalla de las flores es una colección que surge como la rebelión de estampados, mezclas atrevidas entre estampados y color, donde los colores pastel le hacen batalla a los colores neón, y los colores claros contra los oscuros.
+
+    </string>
+    <string-array name="tallas">
+        <item>S</item>
+    </string-array>
+</resources>

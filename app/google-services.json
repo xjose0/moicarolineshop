@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44264586393",
+    "project_id": "moicaroline-bd5b9",
+    "storage_bucket": "moicaroline-bd5b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44264586393:android:5a3661bbcb66b1e086cc08",
+        "android_client_info": {
+          "package_name": "com.example.moicaroline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44264586393-o3kohbufn9hhk8kanl17vtd5r66jo79m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moicaroline",
+            "certificate_hash": "16a463eec34485c8754c96939de945ac5dee28e0"
+          }
+        },
+        {
+          "client_id": "44264586393-nh181delhudup79uug2hkuos58kqnhfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8EF_rGid9DlACx7qJMv5_pDRPmhaKAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44264586393-nh181delhudup79uug2hkuos58kqnhfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
